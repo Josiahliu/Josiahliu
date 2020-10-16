@@ -1,13 +1,4 @@
 ### Hi there 👋
-
- ______         __  _____              ____            
-|  ____|       / / |  __ \            / __ \           
-| |__ ___     / /  | |  | | _____   _| |  | |_ __  ___ 
-|  __/ _ \   / /   | |  | |/ _ \ \ / / |  | | '_ \/ __|
-| | |  __/  / /    | |__| |  __/\ V /| |__| | |_) \__ \
-|_|  \___| /_/     |_____/ \___| \_/  \____/| .__/|___/
-                                            | |        
-                                            |_|    
 <!--
 **Josiahliu/Josiahliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
